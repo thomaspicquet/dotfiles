@@ -43,3 +43,9 @@ Session.vim
 # SASS
 # ----------------------------------------------------------------------------------------------
 .sass-cache
+
+bldr.phar
+composer.phar
+.idea
+node_modules/
+supervisord.log
